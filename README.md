@@ -466,7 +466,6 @@ Terraform automates infrastructure provisioning.
 - Reduced manual configuration errors
 
 ---
----
 
 # 10. Security Hardening
 
